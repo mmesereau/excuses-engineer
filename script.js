@@ -42,6 +42,7 @@ function makeSentence(){
     }
   }).join(" ")
   console.log(finalSentence)
+  document.querySelector('.excuse').innerHTML = finalSentence;
 
 }
 

@@ -35,6 +35,15 @@
   border-radius: 5px;
 }
 
+.excuse {
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+  width: 40%;
+  height: 25%;
+  margin: auto;
+  font-size: 200%;
+}
+
 .button p {
   color: black;
   font-size: 300%;

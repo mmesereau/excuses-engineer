@@ -132,5 +132,8 @@ var excuse1 =  [
 
 var sentences = [
 ["I can't ", "excuse", " because ", "excuse1"],
-["excuse", " isn't possible because ", "excuse1"]
+["excuse", " isn't possible because ", "excuse1"],
+["It would take too long to ", "excuse", " because ", "excuse1"],
+["I'm sorry that ", "excuse", " can't be completed becase ", "excuse1" ],
+["If you wanted me to ", "excuse", " you should have told me about ", "excuse1"]
 ]
