@@ -1,66 +1,60 @@
-body {
-  width: 1400px;
+
+
+.top {
+  height: 10%;
+  width: 90%;
   margin: auto;
 }
-.header {
+
+.top h1 {
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+  font-size: 200%;
+}
+
+.text {
+  height: 10%;
   width: 90%;
-  height: 12%;
-  border: 10px solid red;
-  border-radius: 25px;
   margin: auto;
   margin-top: 3%;
 }
 
-h1 {
-  text-align:center;
+.text p {
+  text-align: center;
   font-family: "Comic Sans MS", sans-serif;
-font-size: 300%;
+
 }
 
-.content {
-  width: 90%;
-  margin: 5%;
+.button {
+  background-color: #1481BA;
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+  width: 40%;
+  height: 25%;
+  margin: auto;
+  border-radius: 5px;
 }
 
-.text {
-  width: 60%;
-  margin-right: 5%;
-  margin-top: 5%;
-  float: left;
-}
-
-.pic {
-  width: 30%;
-  float: left;
-  margin: 5%;
-  margin-left: 0%;
-  height: 60%;
-}
-
-.nav {
-  height: 1%;
-  margin-left: 15%;
+.button p {
+  color: black;
+  font-size: 300%;
+  text-align: center;
 }
 
 ul {
   list-style: none;
+  margin: auto;
+  text-align: center;
 }
 
 li {
+  width: 10%;
   float: left;
-  width: 25%;
-  border: 5px solid blue;
-  border-radius: 10px;
-  height: 90%;
-}
-
-p {
-  text-align: center;
+  margin: 5%;
   font-family: "Comic Sans MS", sans-serif;
-  font-size: 175%;
 }
 
-img {
-  height: 100%;
-  width: 100%;
+a {
+  text-decoration: none;
+  color: black;
 }
